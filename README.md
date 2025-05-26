@@ -6,3 +6,4 @@ Gra labirynt
 3. Możemy strzelać w strażników
 4. Są pułapki oraz eliksiry
 5. Trzeba zebrać klucze żeby móć wyjść
+6. Możliwość sprawdzenia drogi do wyjścia
